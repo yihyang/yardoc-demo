@@ -1,0 +1,5 @@
+app/models/product.rb 0668ed0d8f24b942416f89a5fbc790cde3cca9d7
+app/services/financial.rb 5489d9cd64f57cb884fd080d6a638e90be22f65b
+app/services/financial/product_filter.rb 97f35de599bb66e1c1335edc23187914ac7e7241
+app/services/financial/product_finder.rb fbd8550c630b8534cff925db134c9888a42ceb52
+app/services/financial/product_builder.rb 0e06efbd48f104fd8dba2eb721a6588240d743af
